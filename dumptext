@@ -1,0 +1,40 @@
+How to add a file to your repository
+Files in GitHub can do a handful of things, but the main purpose of files is to store data and information about your project.
+
+Let’s review how to add a file to your repository.
+
+But before we begin, it is worth knowing in order to add a file to a repository you must first have minimum Write access within the repository you want to add a file.
+
+On GitHub.com, navigate to the main page of the repository.
+
+In your repository, browse to the folder where you want to create a file.
+
+Above the list of files, select the Add file ᐁ dropdown menu, then click ᐩ Create new file. Alternatively, you can click ᐩ in the file tree view on the left.
+
+A screenshot of the two options of adding a file to your new repository highlighted in red. One option is the plus sign in the left hand navigation bar, the second option is the add file button towards the right of the screen.
+
+In the file name field, type the name and extension for the file. To create subdirectories, type the / directory separator.
+
+In the file contents text box, type content for the file.
+
+To review the new content, above the file contents, click Preview.
+
+Screenshot showing a yml file with the preview button highlighted in the top left.
+
+Click Commit changes...
+
+In the "Commit message" field, type a short, meaningful commit message that describes the change you made to the file. You can attribute the commit to more than one author in the commit message.
+
+If you have more than one email address associated with your account on GitHub.com, click the email address drop-down menu and select the email address to use as the Git author email address. Only verified email addresses appear in this drop-down menu. If you enabled email address privacy, then [username]@users.noreply.github.com is the default commit author email address.
+
+Screenshot showing a commit change with a description box and the drop-down menu of the email to select as the author of the commit.
+
+Below the commit message fields, decide whether to add your commit to the current branch or to a new branch. If your current branch is the default branch, you should choose to create a new branch for your commit and then create a pull request.
+
+Screenshot showing creating a new branch from a commit option select with the textbox of the new branch below it.
+
+Click Commit changes or Propose changes.
+
+Congratulations you just created a new file in your repository! You have also created a new branch and made a commit!
+
+But before we review branches and commits in the next unit, let’s quickly review gists, wikis, and GitHub pages because they are similar to repositories.
